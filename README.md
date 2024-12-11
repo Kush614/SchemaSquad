@@ -24,6 +24,8 @@
 5. Pei-Yun Jan
    - Student ID: 862548790
    - Email: pjan002@ucr.edu
+  
+## Setup Instructions
 
 ### Running the Code
 1. **Data Preparation**:
