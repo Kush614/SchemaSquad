@@ -31,7 +31,7 @@
  - Mount your Google Drive in Colab
 
 2. **Execute the Analysis**:
- - Open the these notebooks one by one in Google Colab
+ - Open the notebooks in Google Colab
  - Update the path variables to point to your dataset location
  - Run all cells sequentially
 
@@ -71,3 +71,14 @@
   - Performed code review and validation
   - Verified analysis results and methodologies
   - Assisted with quality assurance of data processing pipelines
+
+## Project Files
+
+Our analysis is split across several Jupyter notebooks:
+
+- `CS226_Big_Data_Project.ipynb`: Primary analysis notebook containing success factor visualization and rating distribution analysis
+- `cs226_project_pj4.ipynb`: Implementation of geographical visualization for various business categories including restaurants, medical services, and shopping
+- `LocationBasedInsights.ipynb`: Analysis of business distribution across cities and states, including top city rankings and state-wise rating comparisons
+- `SuccessFactors_BigData_Project.ipynb`: Comprehensive analysis of business categories and statistical table generation for performance metrics
+
+Each notebook should be run independently and requires the same setup steps described in the Setup Instructions section.
