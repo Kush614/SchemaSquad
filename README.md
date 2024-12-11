@@ -31,7 +31,7 @@
  - Mount your Google Drive in Colab
 
 2. **Execute the Analysis**:
- - Open the `analysis.ipynb` notebook in Google Colab
+ - Open the these notebooks one by one in Google Colab
  - Update the path variables to point to your dataset location
  - Run all cells sequentially
 
