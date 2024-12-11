@@ -34,3 +34,40 @@
  - Open the `analysis.ipynb` notebook in Google Colab
  - Update the path variables to point to your dataset location
  - Run all cells sequentially
+
+
+## Author Contributions
+
+- **Justin Chiu**: 
+  - Led success factors analysis component
+  - Created and analyzed datasets for business performance metrics
+  - Implemented data visualization for rating distributions and review patterns
+  - Generated statistical analysis for review length correlations
+
+- **Mohit Khatri**:
+  - Co-developed success factors analysis
+  - Created comprehensive business category analysis
+  - Generated statistical tables and metrics
+  - Implemented data processing pipelines for large-scale analysis
+
+- **Suren B. Kusume**:
+  - Led location-based insights analysis
+  - Generated city-wise business distribution analysis
+  - Created geographical visualizations and heatmaps
+  - Implemented state-wise rating analysis for different business categories
+
+- **Pei-Yun Jan**:
+  - Specialized in location-based visualization
+  - Created interactive maps for multiple business categories:
+    - Restaurants
+    - Health and Medical
+    - Planning and Services
+    - Coffee and Tea
+    - Shopping
+  - Implemented geographical data processing
+
+- **Kush Ise**:
+  - Contributed to project documentation and report writing
+  - Performed code review and validation
+  - Verified analysis results and methodologies
+  - Assisted with quality assurance of data processing pipelines
